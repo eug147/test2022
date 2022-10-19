@@ -1,0 +1,60 @@
+.dvkhero{
+    display: flex;
+}
+
+.subtwrap{
+
+
+}
+.article-brand{
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #31315b;
+    margin-bottom: 8px;
+}
+.article-title{
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 60px;
+    font-weight: 200;
+    line-height: 72px;
+    font-weight: 300;   
+}
+.article-subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 16px;
+    color: #9b9b9b;   
+    margin-bottom: 32px;
+    margin-top: 8px;
+}
+
+.article-body{
+    background-color: #fff;
+    margin-top: 48px;
+    max-height: 100%;
+    overflow: hidden;
+    position: relative;  
+}
+
+.acticle-component{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    margin: 16px 0;
+}
+.atricle-img-left{
+    float: left;
+    width: 20%;
+    margin-right: 20px;
+}
+.atricle-img-right{
+    float: right;
+    width: 20%;
+    margin-left: 20px;    
+}
+.artical-comp-title{
+    text-align: left;
+}
