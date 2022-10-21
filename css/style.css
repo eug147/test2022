@@ -83,7 +83,7 @@
 }
 .galery-item{
     width: 100px;
-    height: 100px;
+    /* height: 100px; */
     padding-right: 40px;
     /* padding: 0 11px 55px;
     overflow: hidden; */
@@ -107,5 +107,18 @@
     font-size: 12.5px;
     line-height: 140%;
     text-align: center; 
-    width: 100px;  
+    width: 100px; 
+    height: 100px; 
+}
+
+.plant-galery{
+    display:flex;
+    justify-content: center;
+}
+.plant-galery-item{
+    width: 300px;
+    height: auto;
+}
+.plant-img{
+    width: 100%;
 }
