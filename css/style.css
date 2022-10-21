@@ -77,3 +77,35 @@
     margin-bottom: 30px;
     margin-top: 85px;
 }
+
+.autor-galery{
+    display: flex;
+}
+.galery-item{
+    width: 100px;
+    height: 100px;
+    padding-right: 40px;
+    /* padding: 0 11px 55px;
+    overflow: hidden; */
+    margin-right: 25px;
+}  
+.galery-item-image{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    overflow: hidden;  
+}
+.autor-img{
+    vertical-align: top;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;  
+}
+.galery-item-title{
+    padding-top: 6px;
+    font-size: 12.5px;
+    line-height: 140%;
+    text-align: center; 
+    width: 100px;  
+}
